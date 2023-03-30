@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Akjol!<br>I'm Front-End developer
+Wassup! I'm Akjol!<br>I'm Front-End developer
 
 
 ## 🌐 Socials:
