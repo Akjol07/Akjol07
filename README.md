@@ -14,3 +14,5 @@ Wassup! I'm Akjol!<br>I'm Front-End developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akjol07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
