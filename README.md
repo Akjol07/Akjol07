@@ -1,6 +1,9 @@
 # 💫 About Me:
 Wassup! I'm Akjol!<br>I'm Front-End developer
 
+<div align='center'>
+  <img src="https://profile-counter.glitch.me/Akjol07/count.svg?"  />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/turranovv) 
